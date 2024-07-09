@@ -1,5 +1,5 @@
 ![githubBanner](https://github.com/JAae13/JAae13/assets/166663673/33cc8e89-f017-4e0b-a389-798c695ffd35)
-I am currently a student at Arizona State University studying Graphic Information Technology. After graduation, I hope to work as a full-stack web developer and give back to my community by improving the Navajo government's infrastructure. I am always eager to learn new things.
+I am currently a student at Arizona State University 👩‍🎓 Studying Graphic Information Technology 📚 After graduation, I hope to work as a full-stack web developer and give back to my community by improving the Navajo government's infrastructure 🏜️ I am always eager to learn new things 🤓
 
 ### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/JaeShurley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaelynn-shurley-055933247/) 
