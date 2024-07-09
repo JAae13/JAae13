@@ -1,4 +1,4 @@
-![githubBanner](https://github.com/JAae13/JAae13/assets/166663673/33cc8e89-f017-4e0b-a389-798c695ffd35)
+![githubBanner](https://github.com/JAae13/JAae13/assets/166663673/70b85641-dc87-48b3-a948-7ad5d9cfc1d4)
 I am currently a student at Arizona State University 👩‍🎓 Studying Graphic Information Technology 📚 After graduation, I hope to work as a full-stack web developer and give back to my community by improving the Navajo government's infrastructure 🏜️ I am always eager to learn new things 🤓
 
 ### 🌐 Socials:
@@ -13,3 +13,4 @@ I am currently a student at Arizona State University 👩‍🎓 Studying Graphi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAae13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
