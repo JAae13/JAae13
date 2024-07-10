@@ -10,8 +10,8 @@ I am currently a student at Arizona State University 👩‍🎓 Studying Graphi
 
 
 ## 🔥 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JAaE13&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAaE13&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JAae13&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAae13&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
