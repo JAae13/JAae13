@@ -1,6 +1,15 @@
 ![My Project](https://github.com/JAae13/image/blob/bd6f04971f6a62c75a40049fd29c3ff006f11a2f/GitHub%20Banner.png)
-## 🧠 About me:
-I am currently a student at Arizona State University 👩‍🎓 Studying Graphic Information Technology 📚 After graduation, I hope to work as a full-stack web developer and give back to my community by improving the Navajo government's infrastructure 🏜️ I am always eager to learn new things 🤓
+## Hi, I’m Jaelynn 👩‍💻
+
+**Graphic Information Technology Student**    
+
+**Focus**
+- Web Development  
+- UI/UX Design  
+- Accessible Digital Experiences
+
+**Currently & Goal**  
+I’m currently building responsive, user-centered websites while continuing to develop my full-stack skills. My goal is to apply those skills in a way that strengthens digital infrastructure and improves accessibility for communities, particularly within the Navajo Nation.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/JaeShurley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaelynn-shurley-055933247/) 
