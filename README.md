@@ -1,4 +1,4 @@
-![image](https://github.com/JAae13/image.git)
+![My Project](https://github.com/JAae13/image/blob/bd6f04971f6a62c75a40049fd29c3ff006f11a2f/GitHub%20Banner.png)
 ## 🧠 About me:
 I am currently a student at Arizona State University 👩‍🎓 Studying Graphic Information Technology 📚 After graduation, I hope to work as a full-stack web developer and give back to my community by improving the Navajo government's infrastructure 🏜️ I am always eager to learn new things 🤓
 
