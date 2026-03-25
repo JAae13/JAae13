@@ -11,6 +11,14 @@
 **Currently & Goal**  
 I’m currently building responsive, user-centered websites while continuing to develop my full-stack skills. My goal is to apply those skills in a way that strengthens digital infrastructure and improves accessibility for communities, particularly within the Navajo Nation.
 
+## 📚 Selected Projects: 
+
+| Project | Repository | Live Site | Description |
+|--------|------------|-----------|------------|
+| Timberline Haven Resort | [GitHub](https://github.com/JAae13/Timberline-Haven) | [View](https://jaae13.github.io/Timberline-Haven/) | Redesigned resort website with improved layout, visuals, and user experience |
+| Navajo Coyote Bookstore | [GitHub](https://github.com/JAae13/GIT417-ProjectFinal) | [View](https://jaae13.github.io/GIT417-ProjectFinal/) | Cultural storytelling website with e-commerce and interactive features |
+| Matching Game | [GitHub](https://github.com/JAae13/projectMatchGame) | [View](https://jaae13.github.io/projectMatchGame/) | Created an interactive matching game designed to challenge memory and engage users through simple, intuitive gameplay |
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/JaeShurley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaelynn-shurley-055933247/) 
 
